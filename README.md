@@ -20,7 +20,6 @@ The AI analyzes the resume and provides insights such as:
 
 ## 🖥️ Application Preview
 
-(Add a screenshot of your app here)
 
 Example:
 
