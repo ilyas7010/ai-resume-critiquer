@@ -23,7 +23,7 @@ The AI analyzes the resume and provides insights such as:
 
 ### 1️⃣ Upload Resume Interface
 
-![AI Resume Critiquer - UI](https://github.com/user-attachments/assets/b6cf4035-f76c-48fb-ab71-fdfc5ccbcd4c)
+![AI Resume Critiquer - UI](https://github.com/user-attachments/assets/50dbb47b-9c56-46e4-b61e-177b0115f3a0)
 
 ### 2️⃣ Enter Target Role
 
