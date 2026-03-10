@@ -51,4 +51,4 @@ This project was built to understand:
 
 ## 👨‍💻 Author
 
-Built by **Ilyas Premji** while learning AI engineering and experimenting with practical AI applications.
+Built by **Ilyas** while learning AI engineering and experimenting with practical AI applications.
