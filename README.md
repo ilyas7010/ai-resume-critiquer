@@ -1,7 +1,6 @@
 # 🤖 AI Resume Critiquer
 
 I created this **AI Resume Critiquer** to learn how to integrate AI models into real applications.
-
 Users can upload a resume (PDF or TXT) and optionally enter a **target job role**. The system extracts the resume text and uses an AI model to analyze it and generate **structured feedback and improvement suggestions**.
 
 ---
@@ -52,7 +51,19 @@ This project was built to understand:
 - how AI models integrate into applications  
 - prompt engineering  
 - document processing  
-- building simple AI-powered tools  
+- building simple AI-powered tools
+
+
+---
+
+## 🧠 How It Works
+
+1. User uploads a resume file (PDF or TXT)
+2. The system extracts the text from the document
+3. A structured prompt is generated using the resume content
+4. The prompt is sent to the OpenAI API
+5. The AI analyzes the resume and generates feedback
+6. Results are displayed in the Streamlit interface
 
 ---
 
